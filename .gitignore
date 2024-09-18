@@ -1,0 +1,13 @@
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Compiled class
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
